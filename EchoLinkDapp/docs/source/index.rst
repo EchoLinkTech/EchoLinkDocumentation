@@ -9,7 +9,7 @@ EkoLink is a blockchain based system that provides verified education, skill, an
 EKO Blockchain Platform is a public blockchain service built on top of Proof of Professional Stake consensus protocol (PoPS). PoPS is designed for enterprise grade blockchain applications. The EKO Blockchain Platform is fully compatible with EVM based Solidity smart contracts, and offers some innovative features, such as confidential contracts. The EKO Blockchain Platform provides businesses and developers a fast and efficient way to develop and deploy blockchain applications.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 5
    :caption: Contents:
 
    introduction
@@ -17,3 +17,4 @@ EKO Blockchain Platform is a public blockchain service built on top of Proof of 
    echolink_tokenbridge
    authority_management
    eko_extension
+   admin_interface
