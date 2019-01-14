@@ -1,12 +1,12 @@
-EKO Extension
-=============
+Eko certificate verification
+============================
 
-EkoLink Extension takes the information of a webpage. It provides the image, ssl info and content of full web page and save these information to ekolink backend. You can find extension on chrome store.
+Eko certificate verification is a chrome extension that takes the information of a webpage. It provides the image, ssl info and content of full web page and save these information to ekolink backend. You can find extension on chrome store (https://chrome.google.com/webstore/detail/eko-certificate-verificat/ephfempcdgplbgmpoklbgcecdkdmdjaa?authuser=1).
 
 How to use extension
 --------------------
 
-To use ekolink extension, add extension to your chrome browser and follow the instruction below.
+To use ekolink extension, download extension and add to your chrome browser and follow the instruction below.
 
 
 Navigate on a web page and activate the extension by clicking on extension icon.
