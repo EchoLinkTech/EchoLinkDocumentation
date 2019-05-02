@@ -7,10 +7,11 @@ Steps to use Admin Panel
 -------------------------
 
 Only Admin can use the application by login through credentials.
-Three tabs would be visible to a user-
-Lock Requests
-Authority Users
-Verify Credentials
+Three tabs would be visible to a user
+
+* Lock Requests
+* Authority Users
+* Verify Credentials
 
 Lock Requests
 -------------
@@ -18,6 +19,7 @@ Lock Requests
 This is dashboard page, here you will see list of all user who want to be authority on ekochain. admin can perform multiple functionality on same page. Functionalty like lock stack on mainnet, lock stack on eko chain, unlock stack on sidechain, block stack on ekochain, unlock stack on mainnet and unlock stack on ekochain all can perform here preceded by admin mnemonic input. Here is following staps to perform lock/unlock stack on mainnet and ekochian.
 
 This is a four step process:
+
 - Lock on mainnet
 - Lock on sidechain
 - Unlock/block on sidechain
@@ -48,7 +50,7 @@ Here status will be  Unlocked on ekochain and you would see unlock on mainnet bu
 5)  blocked on ekochain
 Here status will be  blocked on ekochain and you would see block on mainnet button in action column. To block the stakes on mainnet, click on the button on the action field. A modal will appear to enter the mnemonic key corresponding to the associated account with the contract. Input correct mnemonic key and click ok, after validating mnemonic key transaction for mainnet will take place and your status will be pending block on mainnet, and action column will be blank. Status will be remain pending block on mainnet until the transaction get mined on mainnet and watch by admin backend service. You will get updated status (blocked on mainnet) by refreshing the page. After blocking stack on mainnet, the user record no more will be seen on the list.
 
-    Note: The mnemonic key will be saved for the particular session so that it can be used again.
+    **Note: The mnemonic key will be saved for the particular session so that it can be used again.**
 
 Authority Users
 ---------------
