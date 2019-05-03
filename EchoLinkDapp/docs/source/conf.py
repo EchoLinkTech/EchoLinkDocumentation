@@ -22,7 +22,7 @@ import sphinx_rtd_theme
 
 project = u'EchoLink'
 copyright = u'2019, Echolink Project'
-author = u'Harsh Rathi'
+author = u'Jayesh Bairagi'
 
 # The short X.Y version
 version = u'v1.1'
@@ -132,7 +132,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'echolink-dapp.tex', u'echolink-dapp Documentation',
-     u'Harsh Rathi', 'manual'),
+     u'Jayesh Bairagi', 'manual'),
 ]
 
 
